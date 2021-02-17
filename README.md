@@ -1,16 +1,7 @@
 # e_commerce
 
-A new Flutter project.
+This is E-Commerce App Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This is E-Commerce App designed in Flutter. In this app user can Sign Up, Sign In, See Products, See Product details, mark favorite product, add to cart, select product variant etc. This App uses Firebase for backend. Firebase Cloud Firestore, Firebase Storage and Firebase Authentication used.
